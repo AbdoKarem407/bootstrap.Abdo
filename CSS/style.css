@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgb(41, 43, 43);
+}
+
+.navbar-toggler {
+    border-color: white;
+    color: white;
+    background-color: rgba(34, 32, 34, 0.358);
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+nav .navbar-nav a {
+    color: white;
+}
+
+/* Hero Section */
+.hero-sec {
+    padding: 8rem;
+}
+
+/* Services Section */
+.services-sec {
+    padding: 5rem 1rem;
+    background-color: rgb(34, 32, 34);
+}
+.services-sec .card {
+   background-color: rgba(5, 8, 14, 0.365) ;
+   border: none;
+   color: white;
+}
+.card {
+    color: white;
+       background-color: rgb(34, 32, 34);
+}
+.card-img-top{
+    height: 12rem;
+    width: 12rem;
+  
+}
+.contents {
+     background-color: rgb(34, 32, 34);
+    
+}
+i{
+    color: white;
+}
+i:hover{
+    color: rgb(83, 83, 83);
+}
+.content {
+    background-color: rgb(34, 32, 34);
+    color: white;
+}
+a{
+    color: wheat;
+}
+a:hover{
+    color: blue;
+}
+.card-title{
+    color: rgb(193, 222, 215);
+}
